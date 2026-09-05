@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Immedica - Press Releases</title>
+    <link>https://www.immedica.com/en/press-releases</link>
+    <description>Últimos comunicados de prensa de Immedica</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2026 13:48:13 +0000</lastBuildDate>
+    <item>
+      <title>Zepzelca® (lurbinectedin) in combination with atezolizumab approved as first-line maintenance therapy for extensive-stage small cell lung cancer in Kuwait</title>
+      <link>https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-first-line-maintenance-therapy-1</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-first-line-maintenance-therapy-1</guid>
+      <pubDate>Fri, 04 Sep 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immedica receives Orphan Drug Designation for pegzilarginase in Japan</title>
+      <link>https://www.immedica.com/en/press/immedica-receives-orphan-drug-designation-pegzilarginase-japan-2476508</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/immedica-receives-orphan-drug-designation-pegzilarginase-japan-2476508</guid>
+      <pubDate>Tue, 25 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zepzelca® (lurbinectedin) in combination with atezolizumab approved as first-line maintenance therapy for extensive-stage small cell lung cancer in Qatar</title>
+      <link>https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-first-line-maintenance-therapy-0</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-first-line-maintenance-therapy-0</guid>
+      <pubDate>Mon, 03 Aug 2026 08:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Immedica announces marketing authorization approval in the UAE for Ztalmy® (ganaxolone) for CDKL5 deficiency disorder</title>
+      <link>https://www.immedica.com/en/press/immedica-announces-marketing-authorization-approval-uae-ztalmyr-ganaxolone-cdkl5-deficiency</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/immedica-announces-marketing-authorization-approval-uae-ztalmyr-ganaxolone-cdkl5-deficiency</guid>
+      <pubDate>Tue, 23 Jun 2026 06:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zepzelca® (lurbinectedin) in combination with atezolizumab approved by the European Commission as first-line maintenance therapy for extensive-stage small cell lung cancer</title>
+      <link>https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-european-commission-first-line</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/zepzelcar-lurbinectedin-combination-atezolizumab-approved-european-commission-first-line</guid>
+      <pubDate>Mon, 01 Jun 2026 15:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>LOARGYS® (pegzilarginase for injection) approved in Canada for the treatment of Arginase 1 Deficiency (ARG1-D)</title>
+      <link>https://www.immedica.com/en/press/loargysr-pegzilarginase-injection-approved-canada-treatment-arginase-1-deficiency-arg1-d</link>
+      <description>Comunicado de prensa publicado por Immedica.</description>
+      <guid isPermaLink="false">https://www.immedica.com/en/press/loargysr-pegzilarginase-injection-approved-canada-treatment-arginase-1-deficiency-arg1-d</guid>
+      <pubDate>Mon, 01 Jun 2026 14:43:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
